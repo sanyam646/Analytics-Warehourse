@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,status,total_amount,channel
+1001,1,2024-03-01,paid,120,web
+1002,1,2024-04-15,paid,80,app
+1003,2,2024-03-20,paid,50,web
+1004,3,2024-04-05,cancelled,60,web
+1005,3,2024-07-12,paid,200,app
+1006,4,2024-07-20,paid,150,app
+1007,5,2024-08-01,paid,40,web
+1008,5,2024-09-15,paid,90,app

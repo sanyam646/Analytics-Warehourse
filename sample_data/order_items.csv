@@ -1,0 +1,11 @@
+order_item_id,order_id,seller_id,qty,price,discount,category
+1,1001,101,1,60,0,electronics
+2,1001,102,2,30,5,home
+3,1002,101,1,80,0,electronics
+4,1003,103,1,50,0,books
+5,1004,101,1,60,0,electronics
+6,1005,102,3,70,10,home
+7,1006,101,1,150,0,electronics
+8,1007,103,2,20,0,toys
+9,1008,101,1,70,0,home
+10,1008,102,1,20,0,toys
